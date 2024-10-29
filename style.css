@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+    font-size: 14px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
